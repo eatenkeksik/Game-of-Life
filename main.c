@@ -1,5 +1,5 @@
-# gcc -o main main.c
-# ./main
+/* gcc -o main main.c */
+/* ./main */
 
 #include <stdio.h>
 #include <stdlib.h>
